@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Garmin Sync Companion</string>
+    <string name="title_dashboard">Garmin ➔ Dashboard Sync</string>
+    <string name="subtitle">Android Health Connect Bridge for Personal Life Dashboard</string>
+    <string name="status_ready">พร้อมทำงาน (Ready)</string>
+    <string name="btn_check_permissions">ขอสิทธิ์ Health Connect</string>
+    <string name="btn_sync_now">⚡ ซิงก์ทันที (Sync Now)</string>
+    <string name="btn_save_config">บันทึกการตั้งค่า</string>
+    <string name="hint_gas_url">วาง URL ของ GAS Ingest Bridge Web App</string>
+    <string name="hint_bridge_secret">รหัสลับ X-Bridge-Token (เช่น secret_1234)</string>
+    <string name="auto_sync_label">ซิงก์อัตโนมัติในพื้นหลัง (WorkManager 15-30 นาที)</string>
+</resources>
